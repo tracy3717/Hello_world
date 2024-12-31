@@ -13,6 +13,7 @@ WHERE b.s_score > c.s_score;
 ```
 
 考察知识点：子查询、内连接（inner join 、join），左连接（left join），多表连接
+
 1、查询"01"课程比"02"课程成绩高的学生的信息及课程分数
 
 ```mysql
